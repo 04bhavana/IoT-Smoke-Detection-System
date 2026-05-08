@@ -67,3 +67,6 @@ Otherwise:
 - IoT cloud dashboard
 - Mobile app integration
 - Battery backup monitoring
+## Prototype Setup
+
+![Prototype](prototype_setup.jpg)
