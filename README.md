@@ -67,9 +67,6 @@ Otherwise:
 - IoT cloud dashboard
 - Mobile app integration
 - Battery backup monitoring
-## Circuit Diagram
-
-![Circuit Diagram](circuit_diagram.png)
 
 ## Prototype Setup
 
