@@ -85,3 +85,9 @@ Otherwise:
 ## System Architecture
 
 MQ-2 Sensor → ADC Processing → Raspberry Pi Pico → LED/Buzzer Alert
+## Performance Metrics
+
+- Alert response time: <200 ms
+- Continuous real-time monitoring
+- Stable ADC sampling
+- Low-cost embedded implementation
