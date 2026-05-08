@@ -82,3 +82,6 @@ Otherwise:
 3. Build the project using Pico SDK
 4. Flash the generated .uf2 file into Raspberry Pi Pico
 5. Power the board and test using smoke source
+## System Architecture
+
+MQ-2 Sensor → ADC Processing → Raspberry Pi Pico → LED/Buzzer Alert
