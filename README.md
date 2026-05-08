@@ -74,3 +74,11 @@ Otherwise:
 ## Prototype Setup
 
 ![Prototype](prototype_setup.jpg)
+
+## How to Run
+
+1. Connect MQ-2 sensor to GPIO26 (ADC0)
+2. Connect LEDs and buzzer to GPIO pins
+3. Build the project using Pico SDK
+4. Flash the generated .uf2 file into Raspberry Pi Pico
+5. Power the board and test using smoke source
